@@ -17,7 +17,7 @@ Laravel  | Package
 #### Via Composer
 
 ```
-composer require composer require naumov-adata/laravel-tarantool
+composer require naumov-adata/laravel-tarantool
 ```
 
 Configuration
